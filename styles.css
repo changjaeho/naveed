@@ -1,0 +1,23 @@
+body 
+{
+	background-color:#D3D3D3;
+}
+#page-title
+{
+	text-align: center;
+}
+#page-title2
+{
+	text-align: left;
+}
+#page-selector
+{
+	background-color: black;
+	border-color: black;
+	
+}
+.option_bar
+{
+	background-color: black;
+	color: white;
+}
